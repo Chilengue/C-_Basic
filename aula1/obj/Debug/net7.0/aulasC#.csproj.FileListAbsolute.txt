@@ -1,0 +1,15 @@
+/home/jose/Documents/C#/aulasC#/bin/Debug/net7.0/aulasC#
+/home/jose/Documents/C#/aulasC#/bin/Debug/net7.0/aulasC#.deps.json
+/home/jose/Documents/C#/aulasC#/bin/Debug/net7.0/aulasC#.runtimeconfig.json
+/home/jose/Documents/C#/aulasC#/bin/Debug/net7.0/aulasC#.dll
+/home/jose/Documents/C#/aulasC#/bin/Debug/net7.0/aulasC#.pdb
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.csproj.AssemblyReference.cache
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.AssemblyInfoInputs.cache
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.AssemblyInfo.cs
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.csproj.CoreCompileInputs.cache
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.dll
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/refint/aulasC#.dll
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.pdb
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/aulasC#.genruntimeconfig.cache
+/home/jose/Documents/C#/aulasC#/obj/Debug/net7.0/ref/aulasC#.dll
